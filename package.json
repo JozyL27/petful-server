@@ -4,6 +4,9 @@
     "dev": "nodemon server",
     "start": "node src/server.js"
   },
+  "engines": {
+    "node": "12.14.1"
+  },
   "dependencies": {
     "body-parser": "^1.19.0",
     "cors": "^2.8.5",
